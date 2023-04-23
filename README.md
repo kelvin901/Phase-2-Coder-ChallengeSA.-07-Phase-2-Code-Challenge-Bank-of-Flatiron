@@ -5,26 +5,35 @@ Welcome to the Bank of Flatiron, where you can trust us with all your financial 
 
 To view in VSCode, right click on the README.md file and select "Open Preview".
 
-## Instructions
-For this project, you’ll be building out a React application that displays a list of your recent bank transactions, among other features.
+#React Bank Transactions Application
+Welcome to the React Bank Transactions Application project! In this project, you will be building a React application that displays a list of your recent bank transactions, along with several other features. The purpose of this project is to test your ability to follow instructions and implement the required features.
 
-Part of what this code challenge is testing is your ability to follow given instructions. While you will definitely have a significant amount of freedom in how you implement the features, be sure to carefully read the directions for setting up the application.
+## Getting Started
+To get started with this project, please follow these instructions:
 
-## Setup
-After unbundling the project:
+Clone this repository to your local machine using the git clone command.
+Navigate to the root directory of the project in your terminal.
+Install the necessary dependencies by running the command npm install.
+Start the development server by running the command npm start.
+Open your web browser and navigate to http://localhost:3000/ to view the application.
+Features
+The following features are required for this project:
 
-Run npm install in your terminal.
-Run npm run server. This will run your backend on port 8001.
-In a new terminal, run npm start. This will run your React app on port 8000.
-Make sure to open http://localhost:8001/transactions in the browser to verify that your backend is working before you proceed!
+Display a list of recent bank transactions.
+Allow users to filter transactions by date range.
+Show a summary of the total income, total expense, and balance.
+Allow users to add a new transaction.
+You are free to implement these features however you see fit, but be sure to carefully read the instructions for each feature.
 
-The app uses Semantic UI for styling. If you see any unfamiliar classNames on some components, don't sweat! That's coming from Semantic UI and you shouldn't need to touch it.
+## Guidelines
+Here are some guidelines to keep in mind as you work on this project:
 
-If you are unfamiliar with HTML tables, take a look at the docs with an example here
-
-## Endpoints
-The base URL for your backend is: http://localhost:8001
-
+Write clean, well-organized code.
+Use best practices for React development.
+Make the user interface (UI) easy to use and visually appealing.
+Be sure to thoroughly test your code.
+Additional Resources
+If you need additional resources or help with React, you can refer to the official React documentation.
 ## Core Deliverables
 As a user, I should be able to:
 
