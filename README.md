@@ -1,16 +1,16 @@
-Bank of Flatiron
+##Bank of Flatiron
 Welcome to the Bank of Flatiron, where you can trust us with all your financial data! Use the below gif as an example of how the app should function.
 
-demo
+##demo
 
 To view in VSCode, right click on the README.md file and select "Open Preview".
 
-Instructions
+##Instructions
 For this project, you’ll be building out a React application that displays a list of your recent bank transactions, among other features.
 
 Part of what this code challenge is testing is your ability to follow given instructions. While you will definitely have a significant amount of freedom in how you implement the features, be sure to carefully read the directions for setting up the application.
 
-Setup
+##Setup
 After unbundling the project:
 
 Run npm install in your terminal.
@@ -87,4 +87,13 @@ Endpoints for Advanced Deliverables
 DELETE /transactions/:id
 Example Response:
 
-{}# Phase-2-Coder-ChallengeSA.-07-Phase-2-Code-Challenge-Bank-of-Flatiron
+Technologies Used
+React
+JavaScript
+HTML
+CSS
+##Author
+Kelvin Nyoike
+
+Github: https://github.com/kelvinnyoike901
+LinkedIn: https://www.linkedin.com/in/kelvin-nyoike-983b741a6/
