@@ -16,6 +16,9 @@ Navigate to the root directory of the project in your terminal.
 Install the necessary dependencies by running the command npm install.
 Start the development server by running the command npm start.
 Open your web browser and navigate to http://localhost:3000/ to view the application.
+## To open backend server 
+json-server -p 8001  db.json
+
 Features
 The following features are required for this project:
 
